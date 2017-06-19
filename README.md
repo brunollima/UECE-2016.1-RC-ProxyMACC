@@ -7,7 +7,7 @@ Usage:
 - done!
 
 
-Components:
+Authors:
 - Bruno Lima
 - Diego Alysson
 - Flávio Alves
